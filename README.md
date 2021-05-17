@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @van1shed
-- 📍  I live in Croatia
+- 📍   I live in Croatia
 - 🎭 I go by they/them pronouns!
 - 👀 I’m interested in coding any types of programms, bots& plug-ins
 - 🌱 I’m currently learning Swift
