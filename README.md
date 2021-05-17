@@ -11,7 +11,7 @@
 
 **🔰- Tools& Languages**
 
-- (Visual Studio Code)[https://code.visualstudio.com]
+- [Visual Studio Code](https://code.visualstudio.com)
 - PHP
 - Swift
 
