@@ -1,3 +1,5 @@
+`🔰- About me`
+
 - 👋 Hi, I’m @van1shed
 - 📍   I live in Croatia
 - 🎭 I go by they/them pronouns!
