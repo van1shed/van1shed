@@ -22,3 +22,8 @@
 van1shed/van1shed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+Came here by looking up what is hidden in the "Raw" file hah? Your not going to find anything hidden here, so you can keep doing other stuff. By the way, since you are here now, let me tell you something. I don't just work at "Server", I am the Core.
+--->
+
