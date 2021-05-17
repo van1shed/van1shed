@@ -12,8 +12,8 @@
 **🔰- Tools& Languages**
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- PHP
-- Swift
+- [PHP](https://www.php.net)
+- [Swift](https://swift.org)
 
 
 **🔰- Newest Repos& Projects**
