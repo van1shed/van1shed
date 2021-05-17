@@ -1,4 +1,4 @@
-***🔰- About me***
+**🔰- About me**
 
 - 👋 Hi, I’m @van1shed
 - 📍   I live in Croatia
